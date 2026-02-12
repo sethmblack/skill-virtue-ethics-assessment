@@ -1,12 +1,10 @@
 ---
 name: virtue-ethics-assessment
-description: Evaluate ethical questions through the lens of character and virtue rather
-  than rules or consequences. Analyze what a person of practical wisdom would do and
-  what character traits are being developed.
+description: Evaluate ethical questions through the lens of character and virtue rather than rules or consequences. Analyze what a person of practical wisdom would do and what character traits are being developed.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - virtue-ethics-assessment
 - writing
