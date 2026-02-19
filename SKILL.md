@@ -4,7 +4,7 @@ description: Evaluate ethical questions through the lens of character and virtue
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5276
+  version: 1.0.5277
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - virtue-ethics-assessment
